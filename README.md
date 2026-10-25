@@ -5,7 +5,7 @@ This repository contains seven R scripts for an ecological analysis of US monthl
 The scripts are complementary analysis code for the associated report:
 
 - **Report:** DOI forthcoming
-- **Code repository:** DOI forthcoming
+- **Code repository:** [![DOI](https://zenodo.org/badge/1433255564.svg)](https://doi.org/10.5281/zenodo.23643669)
 - **Analysis dataset:** DOI forthcoming
 
 ## What the scripts do
@@ -118,4 +118,6 @@ Third-party R packages are distributed under their respective licenses.
 
 ## Citation
 
-If you use the code in this repository, please cite it using (DOI forthcoming).
+If you use the code in this repository, please cite it using:
+
+Dr Eleni Christoforidou. (2026). eleni-chr/rsv-mnd-mortality-analysis: RSV and Motor Neuron Disease Mortality Analysis (Version v1.0.0) [Computer software]. Zenodo. https://doi.org/10.5281/zenodo.23643670
